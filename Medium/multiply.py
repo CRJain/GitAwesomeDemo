@@ -1,3 +1,3 @@
-# trying to create conflic! we don't want peace we want problems!
+# Function to multiply two Numbers x and y
 def multiply(x, y):
-    return x * y
+    return x + y
